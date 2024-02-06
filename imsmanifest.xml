@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5kHGC2MCIS9" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Nutrition Ninja New</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Nutrition_Ninja_New_ORG">
+    <organization identifier="Nutrition_Ninja_New_ORG">
+      <title>Nutrition Ninja New</title>
+      <item identifier="Nutrition_Ninja_SCO" isvisible="true" identifierref="__5kHGC2MCIS9_RES">
+        <title>Nutrition Ninja New</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5kHGC2MCIS9_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5c1BH3kusd4_P_113_0_1820_1365.jpg" />
+      <file href="mobile/6CXoedL7CVl_P_279_0_1648_1235.jpg" />
+      <file href="mobile/6MNWH5gBOWQ_P_988_0_803_1394.jpg" />
+      <file href="mobile/5VYwvm8S19h_P_0_0_634_476.png" />
+      <file href="mobile/5X67qe4EWrw_P_296_523_1357_610.png" />
+      <file href="mobile/6TTYAOp7PSH.png" />
+      <file href="mobile/6OZUS3rjKtT.png" />
+      <file href="mobile/6CNeTJhfjat.png" />
+      <file href="mobile/6fYD05ACsEd.png" />
+      <file href="mobile/5YJ1sexRrG3.png" />
+      <file href="mobile/6E618yJaWP5.png" />
+      <file href="mobile/66CRVvGkfd9.png" />
+      <file href="mobile/5Wb2gwfhEm5.png" />
+      <file href="mobile/61gYKeetH7E.png" />
+      <file href="mobile/5ZdfxmBgh4E.png" />
+      <file href="mobile/5hUyMNCiqzm.png" />
+      <file href="mobile/5jw6zdU4ydK.png" />
+      <file href="mobile/5XTayrvjyLy.png" />
+      <file href="mobile/62paIg2Zh21_P_151_420_1004_1482.jpg" />
+      <file href="mobile/6p4UisvTW9r_P_111_0_1824_1367.jpg" />
+      <file href="mobile/6H7n4wWz2cB_P_212_408_1835_956.jpg" />
+      <file href="mobile/5XNED9p3Vyn_P_128_418_1766_946.jpg" />
+      <file href="mobile/5upNFyEpJ4R_P_113_0_1820_1365.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6COxN3pWK6O.png" />
+      <file href="mobile/txt__default_6i1ORj5yKgl.png" />
+      <file href="mobile/txt__default_5n046Er6OoA.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f11Wfx8kP9.js" />
+      <file href="html5/data/js/5kis26ptNrj.js" />
+      <file href="html5/data/js/5ks38vgLdCY.js" />
+      <file href="html5/data/js/5WtLGoK6tlR.js" />
+      <file href="html5/data/js/615ZViT0g5U.js" />
+      <file href="html5/data/js/63VptCuFLa2.js" />
+      <file href="html5/data/js/69jvcN0jlgU.js" />
+      <file href="html5/data/js/6O90ytK21a2.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
